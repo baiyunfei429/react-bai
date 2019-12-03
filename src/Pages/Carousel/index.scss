@@ -1,0 +1,23 @@
+.prodItemListWrap {
+  display: flex;
+  flex-direction: row;
+  .prodItemWrap {
+    width: 25%;
+    height: 8em;
+    background: #aaa;
+    .prodItem {
+      width: 100%;
+      height: 8em;
+      .prodText {
+        width: 100%;
+        font-size: 1em;
+        text-align: center;
+        color: red;
+      }
+      .prodImg {
+        width: 4.5em;
+        margin:  0 auto;
+      }
+    }
+  }
+}

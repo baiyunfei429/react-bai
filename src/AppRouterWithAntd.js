@@ -88,7 +88,7 @@ class RouterApp extends Component {
                 lineHeight: "60px"
               }}
             >
-              baiyunfei's blog
+              {/* baiyunfei's blog */}
             </h2>
             <Menu defaultSelectedKeys={["sub1-1"]} mode="inline" theme="light">
 							{
